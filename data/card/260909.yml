@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:34:57Z
+  collectedAt: 2026-09-09T19:52:11Z
 timeline:
   created: 2015-04-16
   lastCommit: 2026-06-23
@@ -86,7 +86,7 @@ total:
   commit: 104
 ---
 path: /home/runner/.x-repo/github.com/jart/gosip
-collectedAt: 2026-09-09T05:34:58Z
+collectedAt: 2026-09-09T19:52:11Z
 loc:
   Go:
     code: 25363
