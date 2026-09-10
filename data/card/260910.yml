@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T17:30:19Z
+  collectedAt: 2026-09-10T21:24:51Z
 timeline:
   created: 2015-04-16
   lastCommit: 2026-06-23
@@ -52,7 +52,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 0
+    commit: 2
   last180d:
     since: 2026-03-14
     release: 0
@@ -60,7 +60,7 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 8
   last360d:
     since: 2025-09-15
     release: 0
@@ -68,7 +68,7 @@ recent:
     openPR: 2
     closedIssue: 0
     openIssue: 1
-    commit: 0
+    commit: 8
   last720d:
     since: 2024-09-20
     release: 0
@@ -86,7 +86,7 @@ total:
   commit: 104
 ---
 path: /home/runner/.x-repo/github.com/jart/gosip
-collectedAt: 2026-09-10T17:30:20Z
+collectedAt: 2026-09-10T21:24:51Z
 loc:
   Go:
     code: 25363
