@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: gosip
+  binname: gosip
+  visiblename: gosip
+  version: "2.1"
+  origversion: 2.1-1
+  status: unique
+  summary: Anonymous encrypted terminal chat. No accounts. No logs. No trace.
+  maintainers:
+    - bearcry55@aur
+  licenses:
+    - MIT
